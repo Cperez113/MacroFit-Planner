@@ -1,0 +1,28 @@
+                                                                        Concept
+
+App will allow gym enthusiasts to plan workouts, meals, and groceries while also being able to keep track of macro nutrients they consume on a daily basis.
+
+---
+
+                                                                        Features
+
+- Home report screen
+  - widget that shows Calorie goal for the day
+  - widget that shows Todays workout
+  - Widget that shows todays meal
+  -
+- Workout planner
+  - create different types of workouts to select from (organize them depending on the muscle being worked out)
+  - add functionality to include a mix of workouts for one specific workout plan (Ex: Biceps + Back)
+  - add a feature to add or remove different workouts
+  - add a feature to put these workouts for specific days of the week
+- Meal Planner
+  - Include a saving feature
+  - Include the option to add a picture of the desired meal
+  - Create a section to track the amount of calories, protein, etc. per meal
+  - Include a feature that can be used to set a meal for a specific day to plan what the user wants to eat ahead of time
+- Macro Tracker
+  - Feature for user to manually add in macros they have consumed
+  - Feature for user to automaticlly add macros into daily intake from there meal planner
+  - Feature that can display graphs/data of users daily macro intake after a week or a month (usefull for user to see if they are consistent)
+  - Create a feature where user can record their weight every week (feature will allow for user to see their weight progress over time using the app)
